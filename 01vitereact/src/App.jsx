@@ -1,9 +1,13 @@
+import Chai from "./chai"
 
 
 function App() {
 
   return (
-    <h1>Soumyajit Rout React</h1>
+    <>
+    <Chai/>
+    <h1>Soooumyajiiit</h1>
+    </>
   )
 }
 
