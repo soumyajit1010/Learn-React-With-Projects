@@ -128,7 +128,7 @@ Each folder contains:
 
 ## ☕ Acknowledgement  
 
-A huge thanks to **[Hitesh Choudhary](https://www.youtube.com/@hiteshchoudhary)** sir for making React so simple, fun, and practical to learn through his **Chai aur Code** series. 🙏  
+A huge thanks to **[Hitesh Choudhary](https://www.youtube.com/@chaiaurcode)** sir for making React so simple, fun, and practical to learn through his **Chai aur Code** series. 🙏  
 Your teaching style makes coding feel like a warm cup of chai ☕ — refreshing and energizing!
 
 ---
