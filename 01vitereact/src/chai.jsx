@@ -1,6 +1,7 @@
-function Chai(){
-    return(
-        <h3>Chai is ready</h3>
-    )
+function Chai() {
+  return (
+    <h2>This is the Chai component 🍵</h2>
+  )
 }
+
 export default Chai
